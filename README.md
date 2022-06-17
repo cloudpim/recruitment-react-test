@@ -27,3 +27,7 @@ If you are familiar with jest, please include some unit tests to demonstrate you
 If you have time, add the option to display the readme for each repository on a separate page. 
 
 API docs: https://docs.github.com/en/rest/reference/repos#get-a-repository-readme. 
+
+## Submitting Your Tech Test
+
+Please push your code to a public repository on github and share the link with us or your recruiter via email
